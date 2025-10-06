@@ -1,0 +1,9 @@
+Línea uno con palabras simples.
+La segunda línea también tiene palabras, algunas repetidas palabras.
+Tercera línea sin nada especial.
+Cuarta línea con números 123 y símbolos !? para probar.
+Quinta línea con la palabra clave BUSCAR.
+Otra línea con BUSCAR pero en mayúsculas.
+Una línea con buscar en minúsculas.
+Línea con palabra-compuesta y otra_palabra_junta.
+Línea final sin coincidencias relevantes.

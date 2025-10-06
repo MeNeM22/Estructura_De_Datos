@@ -1,0 +1,10 @@
+{
+    "nombre": "Laptop",
+    "precio": 999.99,
+    "descripcion": "Una laptop potente para programaci\u00f3n.",
+    "caracteristicas": [
+        "16GB RAM",
+        "512GB SSD",
+        "Intel i7"
+    ]
+}
